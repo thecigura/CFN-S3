@@ -1,2 +1,2 @@
 # CFN-S3
-AWS CloudFormtion
+AWS CloudFormtion -> crete S3 bucket
